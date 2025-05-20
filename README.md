@@ -48,12 +48,10 @@ Esta etapa do projeto visa armazenar os dados coletados da simulação com ESP32
 
 ## 🗃️ Estrutura do Projeto
 
-entrega2/
-
-├── banco.py # Script principal em Python
-├── dados.txt # Leituras copiadas do monitor serial do ESP32
-├── irrigacao.db # Banco de dados SQLite gerado automaticamente
-
+📁 entrega2/
+├── 🐍 banco.py # Script principal em Python
+├── 📄 dados.txt # Leituras copiadas do monitor serial do ESP32
+└── 🗃️ irrigacao.db # Banco de dados SQLite gerado automaticamente
 
 ---
 
