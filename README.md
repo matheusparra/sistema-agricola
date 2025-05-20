@@ -44,14 +44,6 @@ if (umidade < 30 || !fosforo || !potassio || ph < 5.5 || ph > 7.5) {
 
 Esta etapa do projeto visa armazenar os dados coletados da simulação com ESP32 em um banco de dados SQL usando Python. Foram implementadas as operações básicas de inserção, leitura, atualização e exclusão (CRUD), simulando o armazenamento local das leituras do sistema de irrigação inteligente.
 
----
-
-## 🗃️ Estrutura do Projeto
-
-📁 entrega2/
-├── 🐍 banco.py # Script principal em Python
-├── 📄 dados.txt # Leituras copiadas do monitor serial do ESP32
-└── 🗃️ irrigacao.db # Banco de dados SQLite gerado automaticamente
 
 ---
 
